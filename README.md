@@ -32,6 +32,30 @@ df
 df.head()
 ```
 ![image](https://github.com/user-attachments/assets/a5bed056-620e-4cb0-b882-f34f2b3f1384)
+df.tail(5)
+```
+![image](https://github.com/user-attachments/assets/6c822ae8-3521-4d54-af92-abecee72f8a2)
+df.isnull()
+```
+![image](https://github.com/user-attachments/assets/64c618f6-8bcb-4d54-850b-872bba873524)
+df.notnull()
+```
+![image](https://github.com/user-attachments/assets/3e6d66cd-aa72-4a93-bbae-f88f86dd4cb0)
+df.dropna(axis=0)
+```
+![image](https://github.com/user-attachments/assets/394f2e97-7563-4d77-b4bf-c2272a4bec54)
+df.dropna(axis=1)
+```
+![image](https://github.com/user-attachments/assets/01f5af3c-a9d2-41c6-bb3d-52fdc2e04e07)
+df.fillna(0)
+```
+![image](https://github.com/user-attachments/assets/069fcdcb-eca5-4409-9a48-6c831c655552)
+
+
+
+
+
+
 
 
 # Result
