@@ -159,5 +159,5 @@ df1
 
 
 # Result
-          Thus,it read the given data and perform data cleaning and save the cleaned data to a file.
+         Thus the Data Cleaning Process and Detecting and Removal of Outliers is executed successfully.
           
